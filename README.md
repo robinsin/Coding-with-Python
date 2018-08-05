@@ -1,6 +1,6 @@
-# 30 Days of Python
+# Coding through python
 
-For the next 30 days, learn the Python Programming language.
+For the next 30 days, learning the Python Programming language.
 
 [Python Cheat Sheet](./PythonCheatSheet.md)
 
